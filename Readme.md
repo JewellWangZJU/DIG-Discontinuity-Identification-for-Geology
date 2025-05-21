@@ -31,6 +31,14 @@ DIG包含两个并行过程：
 * 岩体三维建模与节理分析
 * 高风险边坡及地下工程裂隙监测
 
+## 联系方式
+
+王嘉伟 Jiawei Wang (Jewell) 
+PhD Candidate, Disaster Prevention Engineering Institute
+College of Civil Engineering and Architecture, Zhejiang University, Zhejiang, China
+📧 22112076@zju.edu.cn / jewellwangzju@gmail.com
+🔗 QRMAILER
+
 ## 许可协议
 
 MIT License
