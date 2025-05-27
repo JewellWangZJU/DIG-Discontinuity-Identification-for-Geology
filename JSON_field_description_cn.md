@@ -32,7 +32,7 @@
   "pointCloudPath": "rock_surface_001.pcd",
   "imageHeight": 1024,
   "imageWidth": 1280,
-  "sensor": "RGBD + LiDAR",
+  "sensor": "DJI Camera",
   "annotator": "geologist_A",
   "date": "2025-05-18"
 }
